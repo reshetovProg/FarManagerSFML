@@ -13,3 +13,4 @@
 - UML (Class)
 - ![image](https://github.com/reshetovProg/FarManagerSFML/assets/94145533/a1bbe063-4d10-4093-8cd5-149ac168cd02)
 
+![image](https://github.com/reshetovProg/FarManagerSFML/assets/113473133/8977e933-0a6f-4be5-a157-bea7f5c0fe78)
